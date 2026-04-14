@@ -1,2 +1,1 @@
-# MarcoDeDesarrolloWeb
-FUCK
+# Sistema de Gestión de Estudiantes y Pagos para Academias
